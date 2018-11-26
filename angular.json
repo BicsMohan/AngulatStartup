@@ -5,7 +5,7 @@
   "projects": {
     "AngularEvents": {
       "root": "",
-      "sourceRoot": "src",
+      "sourceRoot": "src", 
       "projectType": "application",
       "prefix": "app",
       "schematics": {},
